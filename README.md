@@ -40,6 +40,7 @@ Spiders, being distracted on remote learning
 3. People can help you if you're stuck ! 
 
 See you around !
+
 ![Bye](https://media.giphy.com/media/m9eG1qVjvN56H0MXt8/giphy.gif)
 
 I also stream on Twitch ! See you there !
