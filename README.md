@@ -1,6 +1,6 @@
 # Anthony Hoyas
 ---
-#### _Junior Web Developer_
+### _Junior Web Developer_
 
 Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. i'm exited to meet you and learn more @BeCode !
 
@@ -19,8 +19,8 @@ Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey b
 ### What i like the most in the universe
 - My friends and familly
 - Eating 🍣 
-- ==Music==
-- __Eating__🍔 
+- =Music=
+- _Eating_🍔 
 - ~~Did i mention eating ?	🍜 		🍤~~
 
 ### Objectives
