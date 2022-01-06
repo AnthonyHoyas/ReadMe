@@ -4,7 +4,7 @@
 
 <img align="right" widht="100" height="100" src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif">
 
-<p style="color:blue">Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @BeCode !</p>
+<span data-color="blue">Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @BeCode !</span>
 
 ---
 
