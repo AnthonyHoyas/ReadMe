@@ -19,7 +19,7 @@ Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey b
 ### What i like the most in the universe
 - My friends and familly
 - Eating 🍣 
-- =Music=
+- Music
 - _Eating_🍔 
 - ~~Did i mention eating ?	🍜 		🍤~~
 
@@ -49,4 +49,4 @@ I also stream on Twitch ! See you there !
 
 Follow me on Instagram !
 
-[![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png)](https://www.instagram/anthoboiii)
+[![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png)](https://www.instagram.com/anthoboiii/?hl=fr)
