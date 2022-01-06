@@ -7,7 +7,7 @@ Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey b
 | Skills     | Description | Beginner | medium | At Ease | Teacher | Expert
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
 | Guitar      | Been playing for 14 years  🎸      ||||❌ ||
-|Video Games   | Been playing for 20 yers   🎮     |||||❌ |
+|Video Games   | Been playing for 20 years   🎮     |||||❌ |
 | Driving   | Delivered everywhere in Beglium   🚗 🏁     |||||❌ |
 | HTML   |   ML i know best       ||||❌ ||
 | CSS   | I like it when it look good !          ||||❌ ||
