@@ -4,10 +4,17 @@
 
 Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. i'm exited to meet you and learn more @BeCode !
 
-### Skills
-- I can drive wherever ! 🚗 🏁
-- I play a lot of Video Games 🎮
-- I can play guitar 🎸
+| Skills     | Description | Beginner | medium | At Ease | Teacher | Expert
+| ----------- | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
+| Guitar      | Been playing for 14 years  🎸      ||||❌ ||
+|Video Games   | Been playing for 20 yers   🎮     |||||❌ |
+| Driving   | Delivered everywhere in Beglium   🚗 🏁     |||||❌ |
+| HTML   |   ML i know best       ||||❌ ||
+| CSS   | I like it when it look good !          ||||❌ ||
+| JavaScript   | I love JavaScript           |||❌ ||
+| PHP   | I'm not a big fan yet       |❌ || |
+| Ruby   | Lerning process        || ❌ || |
+| React/ReactNative   | I know testing !        |   ||❌ ||| |
 
 ### What i like the most in the universe
 - My friends and familly
