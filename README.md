@@ -2,7 +2,7 @@
 ---
 ### _Junior Web Developer_
 
-Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. i'm exited to meet you and learn more @BeCode !
+Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @BeCode !
 
 | Skills     | Description | Beginner | medium | At Ease | Teacher | Expert
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
@@ -46,3 +46,7 @@ See you around !
 I also stream on Twitch ! See you there !
 
 [![Twitch](https://blog.twitch.tv/assets/uploads/1306x700-blog-header-wip.jpg)](https://www.twitch.tv/sausagetwitch)
+
+Follow me on Instagram !
+
+[![Instagram](https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png)](https://www.instagram/anthoboiii)
