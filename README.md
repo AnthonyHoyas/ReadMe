@@ -1,8 +1,12 @@
 # Anthony Hoyas
----
 ### _Junior Web Developer_
+---
+
+<img align="right" widht="100" height="100" src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif">
 
 Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @BeCode !
+
+---
 
 | Skills     | Description | Beginner | medium | At Ease | Teacher | Expert
 | ----------- | ----------- | ----------- | ----------- | ----------- |----------- |----------- |
@@ -34,7 +38,7 @@ Spiders, being distracted on remote learning
 - [x] having a ball 🎉
 - [x] learn many new skills !
 
-### I value
+### In a group, i value
 1. Opinions of others
 2. The way everyone can came with a different solution to the same problem
 3. People can help you if you're stuck ! 
