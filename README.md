@@ -4,7 +4,7 @@
 
 <img align="right" widht="100" height="100" src="https://c.tenor.com/pvFJwncehzIAAAAM/hello-there-private-from-penguins-of-madagascar.gif">
 
-<span data-color="blue">Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 month ago when i joined the Milocs to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @BeCode !</span>
+<span data-color="blue">Hello world 🤘 , my name is Anthony i'm 29 from Belgium, my `coding` journey begin 3 months ago when i joined the [Milocs](https://milocs.be/) to learn about `code`. Before that, i was a law student and i worked 2 years during the pendemic. Now, i'm exited to meet you and learn more @ [BeCode](https://becode.org/fr/) !</span>
 
 ---
 
@@ -29,6 +29,9 @@
 
 ### Objectives
 I want to become an autonomous full stack web developer !
+| Average web developer     | Average full stack web developer |
+| ----------- | ----------- |
+|![First Gif](https://c.tenor.com/pfRziQK2BA0AAAAM/average-fan-fan.gif)|![Second Gif](https://c.tenor.com/QhAjQ51RQlEAAAAM/decay.gif)
 
 ### Fears
 Spiders, being distracted on remote learning
