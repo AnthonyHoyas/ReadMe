@@ -9,6 +9,8 @@ Il est très pratique en équipe ou avec le sois du futur, il permet de sauvegar
 
 Chaque personne qui travaille sur un projet doit télécharger la version presente sur le serveur. ce qui permet à tous d'avoir l'ensemble du projet en ligne et hors-ligne
 
-## gitHub
+## GitHub
 
 GitHub est l'hébergeur de ce serveur. C'est le plus grand répértoire de projets de Git. Il sert à mettre en ligne et heberger toutes les sauvegarde qu'on fait avec Git. C'est le serveur central des dépots.
+
+GitHub nous permet de faciement travailler ensemble en utilisant des branches differentes, chacun de son coté puis de les merge ensemble grace aux pull requests 
